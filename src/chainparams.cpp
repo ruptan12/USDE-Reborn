@@ -163,7 +163,7 @@ public:
         chainTxData = ChainTxData{
             // Data as of block db42d00d824950a125f9b08b6b6c282c484781562fa8b3bd29d6ce4a2627c348 (height 1259851).
             1502955334, // * UNIX timestamp of last known number of transactions
-            11428845,  // * total number of transactions between genesis and that timestamp
+            0,  // * total number of transactions between genesis and that timestamp
                     //   (the tx=... number in the SetBestChain debug.log lines)
             0.06     // * estimated number of transactions per second after that timestamp
         };
